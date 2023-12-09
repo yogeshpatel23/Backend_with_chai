@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "A backen at chai aur code channel youtue",
   "main": "index.js",
+  "type": "module",
   "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +14,8 @@
     "backend"
   ],
   "author": "Yogesh Patel",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
