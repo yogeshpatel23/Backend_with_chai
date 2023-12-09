@@ -1,0 +1,9 @@
+# folder
+/.vscode
+/node_modules
+./dist
+
+#files
+*.env
+.env
+.env.*
