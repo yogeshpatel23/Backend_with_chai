@@ -1,0 +1,15 @@
+{
+  "name": "video-backend",
+  "version": "1.0.0",
+  "description": "A backen at chai aur code channel youtue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascrpt",
+    "backend"
+  ],
+  "author": "Yogesh Patel",
+  "license": "ISC"
+}
